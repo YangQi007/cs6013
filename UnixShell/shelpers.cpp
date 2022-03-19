@@ -294,9 +294,18 @@ vector<Command> getCommands( const vector<string> & tokens )
         // yet been filled in).  (Note, it has not been filled in yet because the processing
         // has not gotten to it when the error (in a previous command) occurred.
 
-        assert(false);
+        for (Command c : commands){
+            if (c.inputFd != 0){
+                close(c.inputFd);
+            }
+            if (c.outputFd != 1){
+                close(c.outputFd);
+            }
+        }
+        std::cout << "Errors in processing getCommands()\n";
+        exit(1);
     }
-
+    
     return commands;
 
 } // end getCommands()
