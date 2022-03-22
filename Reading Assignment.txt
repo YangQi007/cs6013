@@ -1,0 +1,68 @@
+1. elf
+In computing, the Executable and Linkable Format[2] (ELF, formerly named Extensible Linking Format), is a common standard file format for executable files, object code, shared libraries, and core dumps. 
+
+2. Thrashing
+In computer science, thrashing occurs when a computer's virtual memory resources are overused, leading to a constant state of paging and page faults, inhibiting most application-level processing.[1] This causes the performance of the computer to degrade or collapse. The situation can continue indefinitely until either the user closes some running applications or the active processes free up additional virtual memory resources.
+
+3. Virtual Memory
+Virtual memory is a common technique used in a computer's operating system (OS). Virtual memory uses both hardware and software to enable a computer to compensate for physical memory shortages, temporarily transferring data from random access memory (RAM) to disk storage.
+
+4. Address Space
+An address space is a range of valid addresses in memory that are available for a program or process. That is, it is the memory that a program or process can access. The memory can be either physical or virtual and is used for executing instructions and storing data.
+
+5. Time Sharing
+In computing, time-sharing is the sharing of a computing resource among many users at the same time by means of multiprogramming and multi-tasking. 
+
+6. Digital (Discrete) vs Analog
+Digital signal - signal is continuous in time but discrete in amplitude. Discrete in amplitude means the signal cannot have multiple amplitude values. It can be a 1 or 0. Discrete signal - signal is discrete In time but continuos in amplitude.
+
+7. Kernel vs OS
+The basic difference between an operating system and a kernel is that the operating system is the system program that manages the resources of the system, and the kernel is the important part (program) in the operating system. kernel acts as an interface between software and hardware of the system.
+
+8. Von Neumann
+One of his important contributions in this field was the development of a logical design for computers that paid attention to such concerns as data storage and the processing of instructions. This design, called “von Neumann architecture,” became the basic concept of most computers.
+
+9. Integrated Circuit (IC)
+An integrated circuit or monolithic integrated circuit is a set of electronic circuits on one small flat piece of semiconductor material, usually silicon. Large numbers of tiny MOSFETs integrate into a small chip.
+
+10. State Machine (FSA)
+A finite-state machine or finite-state automaton, finite automaton, or simply a state machine, is a mathematical model of computation. It is an abstract machine that can be in exactly one of a finite number of states at any given time.
+
+11. Hardware (or program) privilege level
+Privileged mode. In this mode, the software executes with unrestricted privileges. In this mode of execution, the CPU allows the software to access all hardware resources. The entire Linux kernel executes in this mode.
+
+12. Context Switch
+In computing, a context switch is a process of storing the state of a process or thread, so that it can be restored and resume execution at a later point. This allows multiple processes to share a single central processing unit (CPU) and is an essential feature of a multitasking operating system.
+
+13. Lazy loading (of program, of memory, etc)
+Lazy loading is the ability to specify the default routines that are compiled and loaded into memory during program launch. Because many applications contain unused features, lazy loading is meant to speed up a program's initial opening time. Lazy loading is also known as dynamic function loading.
+
+14. PID - Process ID
+In computing, a process identifier is a number used by most operating system kernels—such as those of Unix, macOS, and Windows—to uniquely identify an active process. 
+
+15. DMA - direct memory access
+Direct memory access is a feature of computer systems that allows certain hardware subsystems to access main system memory independently of the central processing unit. 
+
+16. MMU / TLB
+A translation lookaside buffer (TLB) is a memory cache that is used to reduce the time taken to access a user's memory location. It is a part of the chip's memory-management unit (MMU). The TLB stores the recent translations of virtual memory to physical memory and can be called an address-translation cache.
+
+17. Daemon
+In multitasking computer operating systems, a daemon is a computer program that runs as a background process, rather than being under the direct control of an interactive user.
+
+18. Symbol (wrt Code, object files, assembly)
+The symbol table contains information to locate and relocate symbolic definitions and references. The assembler creates the symbol table section for the object file. It makes an entry in the symbol table for each symbol that is defined or referenced in the input file and is needed during linking.
+
+19. Shared Library
+A shared library or shared object is a file that is intended to be shared by multiple programs. Symbols used by a program are loaded from shared libraries into memory at load time or runtime.
+
+
+
+
+
+
+
+
+
+
+
+

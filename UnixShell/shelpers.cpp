@@ -305,7 +305,7 @@ vector<Command> getCommands( const vector<string> & tokens )
         std::cout << "Errors in processing getCommands()\n";
         exit(1);
     }
-    
+
     return commands;
 
 } // end getCommands()
