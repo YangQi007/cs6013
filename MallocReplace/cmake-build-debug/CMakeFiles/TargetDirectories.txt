@@ -1,0 +1,3 @@
+/Users/yangqi/Desktop/cs6013/MallocReplace/cmake-build-debug/CMakeFiles/MallocReplace.dir
+/Users/yangqi/Desktop/cs6013/MallocReplace/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yangqi/Desktop/cs6013/MallocReplace/cmake-build-debug/CMakeFiles/rebuild_cache.dir

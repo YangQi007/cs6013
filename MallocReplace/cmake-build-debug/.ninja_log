@@ -1,0 +1,7 @@
+# ninja log v5
+1	218	1653341039038520114	CMakeFiles/MallocReplace.dir/MyMalloc.cpp.o	759f41647f3545b3
+225	251	1653341039072513514	MallocReplace	9d4bd2b367c91a6c
+1	225	1653341039045183049	CMakeFiles/MallocReplace.dir/main.cpp.o	8d6f927eb6683168
+2	310	1653349040948228720	CMakeFiles/MallocReplace.dir/MyMalloc.cpp.o	759f41647f3545b3
+1	311	1653349040949614318	CMakeFiles/MallocReplace.dir/main.cpp.o	8d6f927eb6683168
+311	343	1653349040982849649	MallocReplace	9d4bd2b367c91a6c

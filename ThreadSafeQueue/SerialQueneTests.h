@@ -1,0 +1,14 @@
+//
+// Created by YANG QI on 5/14/22.
+//
+
+#ifndef SERIALQUEUE_H_SERIALQUENETESTS_H
+#define SERIALQUEUE_H_SERIALQUENETESTS_H
+
+
+class SerialQueneTests {
+
+};
+
+
+#endif //SERIALQUEUE_H_SERIALQUENETESTS_H

@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/yangqi/Desktop/cs6013/OpenMp
+-- Found OpenMP_C: -Xclang -fopenmp (found version "5.0") 
+-- Found OpenMP_CXX: -Xclang -fopenmp (found version "5.0") 
+-- Found OpenMP: TRUE (found version "5.0")  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/yangqi/Desktop/cs6013/OpenMp/cmake-build-debug

@@ -1,0 +1,5 @@
+# ninja log v5
+1	227	1652534429456415506	CMakeFiles/ThreadSafeQueue.dir/SerialQueneTests.cpp.o	ced050256d2ae07c
+227	259	1652534429489468240	ThreadSafeQueue	f5068c1c8e14f69
+1	330	1652647541465919292	CMakeFiles/ThreadSafeQueue.dir/SerialQueneTests.cpp.o	ced050256d2ae07c
+330	373	1652647541510126209	ThreadSafeQueue	f5068c1c8e14f69
